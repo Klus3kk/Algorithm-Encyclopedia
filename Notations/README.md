@@ -11,6 +11,7 @@ These notations are used to describe the upper, lower, and tight bounds of an al
 * Example: If an algorithm runs in O(n^2) time, it means that in the worst case, the runtime will grow no faster than a constant times n^2.
 * Visualization: Shows various time complexities such as 
 O(n), O(nlogn), O(n^2), and O(2^n). 
+
 ![Big O Notation](big_o_notation.png)
 
 ### Big Ω Notation (Ω)
@@ -19,6 +20,7 @@ O(n), O(nlogn), O(n^2), and O(2^n).
 * Example: If an algorithm runs in Ω(n) time, it means that in the best case, the runtime will grow at least as fast as a constant times n.
 * Visualization: Displays the lower bounds for time complexities including Ω(n), Ω(logn), Ω(sqrt(n)), and 
 Ω(log(logn)). 
+
 ![Big O Notation](big_omega_notation.png)
 
 ### Big Θ Notation (Θ)
@@ -27,6 +29,7 @@ O(n), O(nlogn), O(n^2), and O(2^n).
 * Example: If an algorithm runs in Θ(nlogn) time, it means that the runtime grows exactly as a constant times nlogn.
 * Visualization: Illustrates the tight bounds for 
 Θ(n) and Θ(nlogn). 
+
 ![Big O Notation](big_theta_notation.png)
 
 ## Amortized Analysis
@@ -40,4 +43,5 @@ In a dynamic array, resizing the array can be an expensive operation. However, s
 
 ### Visualization
 Depicts the actual cost vs. the amortized cost for a sequence of operations, where every 5th operation is more expensive. 
+
 ![Big O Notation](amortized_analysis.png)

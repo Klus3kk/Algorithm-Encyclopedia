@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms Encyclopedia
 ## Description
 This repository is designed to help master the fundamental algorithms and data structures that are essential for technical interviews, competitive programming, and general problem-solving in computer science.
 

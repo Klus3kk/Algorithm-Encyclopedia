@@ -22,4 +22,4 @@ In this repository, you will find implementations and explanations of various al
 * Intervals
 * Graph Algorithms
 * String Algorithms
-* Miscellaneous Important Algorithms
+* Miscellaneous Important Algorithms...and more!
